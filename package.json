@@ -1,0 +1,14 @@
+{
+  "name": "notarizations",
+  "version": "1.0.0",
+  "description": "Syndicate agreement PDF generation",
+  "scripts": {
+    "generate-pdf": "node scripts/generate_syndicate_pdf.mjs",
+    "generate-pdf:agl14": "node scripts/generate_syndicate_pdf.mjs 20260216_AGL14_export_trade_financing_syndicate_agreement.md",
+    "generate-pdf:agl15": "node scripts/generate_syndicate_pdf.mjs 20260216_AGL15_export_trade_financing_syndicate_agreement.md"
+  },
+  "dependencies": {
+    "marked": "^12.0.0",
+    "puppeteer": "^23.0.0"
+  }
+}
