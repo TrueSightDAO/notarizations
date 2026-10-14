@@ -50,7 +50,7 @@ extraction of the certificate shows the reserved-for-registry band blank. OCR th
 **From the Operating Agreement (#2/#3):**
 - **Governing instrument:** manager-managed LLC; the "manager" is the **Governor Board** —
   top-10 contributors by trailing-180-day TDG, auto re-seated each solstice/equinox
-- **Managing Member / President (non-rotating continuity signatory):** Gary Teh (Zhiwen Teh), CPF 039.733.078-22
+- **Managing Member / President (non-rotating continuity signatory):** Gary Teh (Zhiwen Teh), CPF [redacted — in sealed original]
 - **Members:** TDG holders on the Main Ledger; Units proportional to TDG, fixed by Snapshots on each Seating Date
 - **Voting:** 1 Unit = 1 vote on entity (ULLCA) matters; DAO Proposal Process for DAO matters
 - **Dispute resolution:** Próspera Arbitration Center (pac.hn), RCLC § 2-1-37
@@ -59,8 +59,8 @@ extraction of the certificate shows the reserved-for-registry band blank. OCR th
   Company (Próspera) → U.S. Import Partner (TrueTech Inc, a Delaware C-corp)
 
 **From the Power of Attorney (#5):**
-- **Grantor:** Zhiwen Teh (Gary Teh), CPF 039.733.078-22, resident in Singapore
-- **Attorney-in-fact:** Paloma Pinheiro Lecheta, CPF 076.705.909-39, resident in Florianópolis, SC
+- **Grantor:** Zhiwen Teh (Gary Teh), CPF [redacted — in sealed original], resident in Singapore
+- **Attorney-in-fact:** Paloma Pinheiro Lecheta, CPF [redacted — in sealed original], resident in Florianópolis, SC
 - **Scope:** full Brazilian entity-formation and representation mandate (see #5 row),
   expressly to stand up the Brazilian arm of the Agroverse export flow
 
