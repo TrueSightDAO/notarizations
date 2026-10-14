@@ -1,7 +1,7 @@
 # TrueSight DAO LLC — Entity Legal Documents (Próspera ZEDE, Honduras)
 
-Index of the formation / governance documents for **TrueSight DAO LLC**, a Limited
-Liability Company organized under the Roatán Common Law Code (RCLC) § 3707 of
+Index of the formation / governance / authorization documents for **TrueSight DAO LLC**, a
+Limited Liability Company organized under the Roatán Common Law Code (RCLC) § 3707 of
 Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 
 ## Document inventory
@@ -12,6 +12,7 @@ Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 | 2 | **Operating Agreement — FINAL v1.0** (DAZ-sealed, 15 pp) | `notarizations/20261014131824_gary_teh_truesight_dao_llc_prospera_operating_agreement_final_v1.0.pdf` | Version 1.0, effective 2026-07-01; sealed 2026-10-14 | The executed/sealed By-Laws. Every page carries a **DAZ digital-signature seal** (`eaf871ac…` + `3a92ea1f…`, attributed to garyjob@truesight.me). |
 | 3 | **Operating Agreement — source (Markdown + PDF)** | `agentic_ai_context/PROSPERA_ENTITY_OPERATING_AGREEMENT.md` (+ `.pdf`) | v1.0 eff. 2026-07-01 | The `.md` is textually v1.0. ⚠️ the repo `.pdf` is still **DRAFT v0.1** (14 pp, no seal) — stale; replace with #2. |
 | 4 | **Entity Application Approved** (ePróspera approval email) | `notarizations/20260708023012_gary_teh_prospera_entity_application_approved.pdf` | 2026-07-07 (email) | Automated approval notice to garyjob@truesight.me. |
+| 5 | **Power of Attorney — Procuração Pública** (Zhiwen Teh → Paloma Pinheiro Lecheta) | `notarizations/20261013111620_zhiwen_teh_procuracao_publica_paloma_pinheiro_lecheta_brazil_setup.pdf` | Notarized 2026-10-13 (8º Tabelião de Notas, São Paulo) | Authorizes Paloma to **set up the Brazilian arm** of the export operations: constitute Brazilian companies, sign atos constitutivos, obtain CNPJ, register foreign investment (RDE-IED), operate bank accounts, represent before Receita Federal / BACEN / CVM / Juntas Comerciais, and sub-delegate. Prazo indeterminado. Validation code `UE6ZM-73YHZ-DNBAE-PJBWE`. |
 
 ## Key entity particulars
 
@@ -39,6 +40,12 @@ Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 - **Trade structure:** triangular — Brazil Export Partners (Black King / Coopercabruca / CEPOTX) →
   Company (Próspera) → U.S. Import Partner (TrueTech Inc, a Delaware C-corp)
 
+**From the Power of Attorney (#5):**
+- **Grantor:** Zhiwen Teh (Gary Teh), CPF 039.733.078-22, resident in Singapore
+- **Attorney-in-fact:** Paloma Pinheiro Lecheta, CPF 076.705.909-39, resident in Florianópolis, SC
+- **Scope:** full Brazilian entity-formation and representation mandate (see #5 row),
+  expressly to stand up the Brazilian arm of the Agroverse export flow
+
 ## Open items
 
 - **Stamped registry certificate + entity registration number** not yet on file (the top
@@ -50,5 +57,7 @@ Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
   (§2.3), `[PRÓSPERA REGISTERED OFFICE ADDRESS]` (§2.3), the `[SEATING DATE]` in the Schedule A /
   Signature Block, and the "confirm exact spelling/suffix against the filed Certificate of
   Organization" note (p.1) — against doc #1.
+- **Archive the Brazilian entity's output docs** once Paloma completes the setup (contrato social /
+  estatuto, CNPJ card, RDE-IED registration) here or in a Brazil-entity subfolder.
 
 _Archived by Sophia Truesight (admin+sophia@truesight.me)._
