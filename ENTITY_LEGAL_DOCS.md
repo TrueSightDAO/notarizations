@@ -4,11 +4,26 @@ Index of the formation / governance / authorization documents for **TrueSight DA
 Limited Liability Company organized under the Roatán Common Law Code (RCLC) § 3707 of
 Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 
+## ⭐ Registry identifier
+
+The Prospera ZEDE official seal stamped on the Certificate of Organization (pages 2 and 4)
+reads:
+
+> **PROSPERA ZEDE « OFFICIAL RESIDENT PERMIT NO. 86901452542528**
+
+- **Number: `86901452542528`**
+- Label on the stamp is literally **"Official Resident Permit No."** — recorded here verbatim.
+  Confirm with the ePróspera portal whether the *entity* registration number differs from this
+  resident-permit number, and reconcile.
+
+_Note: this number is baked into an embedded seal image, not the PDF text layer — so plain text
+extraction of the certificate shows the reserved-for-registry band blank. OCR the seal image._
+
 ## Document inventory
 
 | # | Document | File | Date | Notes |
 |---|---|---|---|---|
-| 1 | **Certificate of Organization** (bilingual EN/ES) — formation/charter instrument, organizer-signed | `notarizations/20261014131753_gary_teh_truesight_dao_llc_prospera_certificate_of_organization.pdf` | Signed 2026-07-07 | "Approved" stamp. Registry band (fee, trustee, statement, acting ZEDE Manager/Registrar) is **blank** — no entity registration number visible on this copy. |
+| 1 | **Certificate of Organization** (bilingual EN/ES) — formation/charter instrument, organizer-signed, with PZ seal | `notarizations/20261014131753_gary_teh_truesight_dao_llc_prospera_certificate_of_organization.pdf` | Signed 2026-07-07 | "Approved" stamp. Registry band text is blank in the text layer, but the **official PZ seal (pages 2 & 4) carries Resident Permit No. 86901452542528**. |
 | 2 | **Operating Agreement — FINAL v1.0** (DAZ-sealed, 15 pp) | `notarizations/20261014131824_gary_teh_truesight_dao_llc_prospera_operating_agreement_final_v1.0.pdf` | Version 1.0, effective 2026-07-01; sealed 2026-10-14 | The executed/sealed By-Laws. Every page carries a **DAZ digital-signature seal** (`eaf871ac…` + `3a92ea1f…`, attributed to garyjob@truesight.me). |
 | 3 | **Operating Agreement — source (Markdown + PDF)** | `agentic_ai_context/PROSPERA_ENTITY_OPERATING_AGREEMENT.md` (+ `.pdf`) | v1.0 eff. 2026-07-01 | The `.md` is textually v1.0. ⚠️ the repo `.pdf` is still **DRAFT v0.1** (14 pp, no seal) — stale; replace with #2. |
 | 4 | **Entity Application Approved** (ePróspera approval email) | `notarizations/20260708023012_gary_teh_prospera_entity_application_approved.pdf` | 2026-07-07 (email) | Automated approval notice to garyjob@truesight.me. |
@@ -20,6 +35,7 @@ Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 - **Entity type:** Limited Liability Company (LLC)
 - **Entity name:** TrueSight DAO LLC
 - **Status:** Approved
+- **Próspera registry identifier:** Resident Permit No. **86901452542528** (PZ official seal)
 - **Principal office:** Av. dos Merlins, 156 – Jurere Internacional, 88053-370, Florianópolis, Brazil
   (same as the registered agent's address — box "Yes" checked)
 - **Registered agent:** Prospera Employment Solutions LLC (PES),
@@ -48,9 +64,9 @@ Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 
 ## Open items
 
-- **Stamped registry certificate + entity registration number** not yet on file (the top
-  reserved-for-registry band of doc #1 is blank). Download the registered version and entity
-  number from the ePróspera portal (`eprospera.com`) and archive it here.
+- **Confirm** whether the entity registration number differs from Resident Permit No.
+  86901452542528 (the seal is labelled "Resident Permit No."). Pull the registered entity record
+  from the ePróspera portal and reconcile.
 - **Replace the stale `agentic_ai_context/PROSPERA_ENTITY_OPERATING_AGREEMENT.pdf`**
   (DRAFT v0.1) with the FINAL v1.0 (doc #2).
 - **Reconcile** the Operating Agreement's bracketed placeholders — `[REGISTERED AGENT NAME]`
