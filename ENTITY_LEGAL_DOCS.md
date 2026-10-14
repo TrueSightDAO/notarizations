@@ -4,7 +4,9 @@ Index of the formation / governance / authorization documents for **TrueSight DA
 Limited Liability Company organized under the Roatán Common Law Code (RCLC) § 3707 of
 Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 
-> **Machine-readable version:** [`agentic_ai_context/entity_registry.json`](https://github.com/TrueSightDAO/agentic_ai_context/blob/main/entity_registry.json) — same document set, structured for tooling (entity particulars, registration number, per-doc md5/URL, open items).
+> **Machine-readable version:** [`fda_fsvp/truesight_dao_llc_prospera.entity.json`](https://github.com/TrueSightDAO/fda_fsvp/blob/main/truesight_dao_llc_prospera.entity.json) — same document set, structured for tooling (entity particulars, registration number, per-doc references, open items). Privacy-clean: personal identifiers (CPF / passport) and residential addresses are intentionally omitted.
+>
+> **Private archive (full-fidelity originals):** the un-redacted originals of the instruments indexed below are held in the **private** `notarizations-raw` repo (`originals/` + `MANIFEST.md`). Public repos carry only the redacted twins — never the full-fidelity file.
 
 ## ⭐ Registry identifier
 
