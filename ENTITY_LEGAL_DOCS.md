@@ -4,6 +4,8 @@ Index of the formation / governance / authorization documents for **TrueSight DA
 Limited Liability Company organized under the Roatán Common Law Code (RCLC) § 3707 of
 Próspera ZEDE, Roatán, Islas de la Bahía, Republic of Honduras.
 
+> **Machine-readable version:** [`agentic_ai_context/entity_registry.json`](https://github.com/TrueSightDAO/agentic_ai_context/blob/main/entity_registry.json) — same document set, structured for tooling (entity particulars, registration number, per-doc md5/URL, open items).
+
 ## ⭐ Registry identifier
 
 The Prospera ZEDE official seal stamped on the Certificate of Organization (pages 2 and 4)
